@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:h2:file:./data/myDB
+    url: jdbc:h2:file:./data/auth
     username: qw
     password: qw
     driver-class-name: org.h2.Driver
